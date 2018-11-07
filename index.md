@@ -3,7 +3,7 @@ layout: cv
 title: Qinglin Dong
 pdf: true
 ---
-# Wode __Ni__
+# Qinglin Dong
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
