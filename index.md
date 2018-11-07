@@ -1,51 +1,30 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Qinglin Dong
 pdf: true
 ---
 # Wode __Ni__
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
-<a href="http://www.cs.cmu.edu/~woden" style="margin-left:0.5em">cs.cmu.edu/~woden</a>
+<a href="https://qinglindong.github.io" style="margin-left:0.5em">qinglindong.github.io</a>
 <i class="fi-mail" style="margin-left:1em"></i>
-<a href="woden@cs.cmu.edu" style="margin-left:0.5em">woden@cs.cmu.edu</a>
+<a href="qinglin@uga.edu.edu" style="margin-left:0.5em">qinglin@uga.edu.edu</a>
 </div>
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __University of Georgia__ `2014.8 -`
 ```
-Pittsburgh, PA
+Athens, GA
 ```
-- Ph.D. in Software Engineering
+- Ph.D. in Computer Science
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Nankai University__ `2010.8 - 2014.6`
 ```
-New York, NY
+Tianjin, China
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- B.S. in Cybernetics
 
 ## Experience
 
@@ -60,6 +39,32 @@ Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augument
 ### __AsiaInfo__ `2015.6 - 2015.8`
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
+
+## Publications
+
+### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
+__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
+[[PDF](assets/dsldi.pdf)]
+[[slides](assets/dsldi-presentation.pdf)]
+[[www](http://penrose.ink)]
+[[repo](https://github.com/penrose/penrose)]
+
+### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
+__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
+[[PDF](assets/superres.pdf)]
+
+
+1.	Li, X., Dong, Q., Jiang, X., Lv, J., & Liu, T. (2016, April). Multple-demand system identification and characterization via sparse representations of fMRI data. In Biomedical Imaging (ISBI), 2016 IEEE 13th International Symposium on (pp. 70-73). IEEE.
+2.	Liu, S., Lv, J., Hou, Y., Shoemaker, T., Dong, Q., Li, K., & Liu, T. (2016, October). What Makes a Good Movie Trailer?: Interpretation from Simultaneous EEG and Eyetracker Recording. In Proceedings of the 2016 ACM on Multimedia Conference (pp. 82-86). ACM.
+3.	Ren, D., Zhao, Y., Chen, H., Dong, Q., Lv, J., & Liu, T. (2017, April). 3-D functional brain network classification using Convolutional Neural Networks. In Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on (pp. 1217-1221). IEEE.
+4.	Li, X., Zhang, T., Dong, Q., Zhang, S., Hu, X., Du, L., ... & Liu, T. (2017, April). Predicting cortical 3-hinge locations via structural connective features. In Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on (pp. 533-537). IEEE.
+5.	Wang, L., Hu, X., Wang, M., Lv, J., Han, J., Zhao, S., ... & Liu, T. (2017, April). Decoding dynamic auditory attention during naturalistic experience. In Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on (pp. 974-977). IEEE.
+6.	Zhao, Y., Dong, Q., Zhang, S., Zhang, W., Chen, H., Jiang, X., ... & Liu, T. (2017). Automatic Recognition of fMRI-derived Functional Networks using 3D Convolutional Neural Networks. IEEE Transactions on Biomedical Engineering.
+7.	Huang, H., Hu, X., Makkie, M., Dong, Q., Zhao, Y., Han, J., ... & Liu, T. (2017, June). Modeling Task fMRI Data via Deep Convolutional Autoencoder. In International Conference on Information Processing in Medical Imaging (pp. 411-424). Springer, Cham.
+8.	Yuan, J., Li, X., Zhang, J., Luo, L., Dong, Q., Lv, J., ... & Liu, T. (2017). Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs. NeuroImage.
+9.	Zhao, Y., Dong, Q., Chen, H., Iraji, A., Li, Y., Makkie, M., ... & Liu, T. (2017). Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder. Medical image analysis, 42, 200-211.
+
+
 
 
 ## Teaching
