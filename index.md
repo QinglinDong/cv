@@ -18,7 +18,7 @@ pdf: true
 ```
 Athens, GA
 ```
-- Ph.D. in Computer Science
+- Ph.D. Student in Computer Science
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
