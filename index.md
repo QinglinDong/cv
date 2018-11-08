@@ -78,6 +78,11 @@ Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
+## Academic Service
+
+Review: PIC-2016
+## Opensource Contribution
+
 <!-- ### Footer
 
 Last updated: May 2013 -->
