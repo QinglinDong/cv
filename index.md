@@ -12,25 +12,47 @@ pdf: true
 <a href="qinglin@uga.edu.edu" style="margin-left:0.5em">qinglin@uga.edu.edu</a>
 </div>
 
-## Education
+## Education Experience
 
-### __University of Georgia__ `2014.8 -`
+### __University of Georgia, Cortical Architecture Imaging and Discovery Laboratory__ `2014.8 -`
 ```
 Athens, GA
 ```
-- Ph.D. Student in Computer Science
+_Ph.D. Student and Research Assistant of the Department of Computer Science_<br>
+Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
+
+### __University of Michigan, Ye Lab__ `2016.5 - 2016.8`
+```
+Ann Arbor, MI
+```
+_Visiting Student of the Department of Computational Medicine and Bioinformatics_<br>
+Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-- B.S. in Cybernetics
+_B.S. in Cybernetics_<br>
+Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions/35737838_Han_Zhang)
 
-## Experience
+## Academic Experience
 
-### __University of Georgia, Cortical Architecture Imaging and Discovery Laboratory__ `2014.8 - `
-_Research Assistant_<br>
-Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/), on 
+Review: PIC-2016
+Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2011, 2013, 2014,
+poster Presentation at ISBI 2015, 2018.
+Poster Presentation at International Conference on Medical Image Computing & Computer Assisted
+Intervention (MICCAI) 2011, 2017.
+Invited workshop talk at Brain Informatics & Health 2016 (BIH) 2016.
+Poster Presentation at Association for Computing Machinery's Special Interest Group on Knowledge
+Discovery and Data Mining (ACM KDD) 2016.
+Poster Presentation at Organization for Human Brain Mapping (OHBM) 2013.
+Program committee member for the BioImage Informatics Conference, MICCAI workshop of Patch-based
+Techniques in Medical Imaging.
+Reviewer for conferences including ISBI, MICCAI, MLMI and ICME.
+Editorial board for Journal of Healthcare Engineering.
+Reviewer for Neuroimaging, BMC Bioinformatics, Pattern Recognition, IEEE/ACM Transactions on
+Computational Biology and Bioinformatics, Symmetry, Physical Communication, IEEE Transactions on
+Biomedical Engineering, Neurocomputing.
 
 ## Publications
 
@@ -54,12 +76,9 @@ Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/), on
 
 ## Honors & Awards
 
-## Academic Service
-
-Review: PIC-2016
 
 ## Opensource Contribution
-
+[Nilearn](https://nilearn.github.io/)
 <!-- ### Footer
 
 Last updated: May 2013 -->
