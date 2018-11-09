@@ -37,10 +37,10 @@ Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions
 
 ## Academic Experience
 
-Oral Presentation at ACM Multimedia Conference 2016.
-Poster Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
-Poster Presentation at Information Processing in Medical Imaging(IPMI) 2017
-Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
+### Oral Presentation at ACM Multimedia Conference 2016.
+### Poster Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+### Poster Presentation at Information Processing in Medical Imaging(IPMI) 2017
+### Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
 
 ## Publications
 
