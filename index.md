@@ -37,22 +37,10 @@ Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions
 
 ## Academic Experience
 
-Review: PIC-2016
-Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2011, 2013, 2014,
-poster Presentation at ISBI 2015, 2018.
-Poster Presentation at International Conference on Medical Image Computing & Computer Assisted
-Intervention (MICCAI) 2011, 2017.
-Invited workshop talk at Brain Informatics & Health 2016 (BIH) 2016.
-Poster Presentation at Association for Computing Machinery's Special Interest Group on Knowledge
-Discovery and Data Mining (ACM KDD) 2016.
-Poster Presentation at Organization for Human Brain Mapping (OHBM) 2013.
-Program committee member for the BioImage Informatics Conference, MICCAI workshop of Patch-based
-Techniques in Medical Imaging.
-Reviewer for conferences including ISBI, MICCAI, MLMI and ICME.
-Editorial board for Journal of Healthcare Engineering.
-Reviewer for Neuroimaging, BMC Bioinformatics, Pattern Recognition, IEEE/ACM Transactions on
-Computational Biology and Bioinformatics, Symmetry, Physical Communication, IEEE Transactions on
-Biomedical Engineering, Neurocomputing.
+Oral Presentation at ACM Multimedia Conference 2016.
+Poster Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+Poster Presentation at Information Processing in Medical Imaging(IPMI) 2017
+Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
 
 ## Publications
 
