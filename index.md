@@ -35,30 +35,21 @@ Tianjin, China
 _B.S. in Cybernetics_<br>
 Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions/35737838_Han_Zhang)
 
-## Projects
-
-### __Brain Connectome with Deep Belief Net__ `2017 -`
-
-
-### __Training a Camera to Perform Eye Tracking__ `2018 - `
-Developed an appearance-based gaze estimation system with CNN, using infrared-based high precision eye tracker as grount truth. 
-
-Contributed to building and training deep learning model.
-
-### __Simultaneous EEG and Eyetracker Recording__  `2016 - 2017`
-
-
-### __Brain Maps Classification using Deep Learning__ `2015.6 - 2015.8`
-
-
-
-
-
 ## Academic Experience
 
-### Poster Presentation at ACM Multimedia Conference 2016.
-### Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
-### Poster Presentation at Information Processing in Medical Imaging(IPMI) 2017
+### __Brain Connectome with Deep Belief Net__ `2018 -`
+Develped DBN based on tensorflow.
+
+### __Training a Camera to Perform Eye Tracking__ `2018 - `
+An appearance-based gaze estimation system with CNN, using infrared-based high precision eye tracker as grount truth. <br/>
+Contributed to building and training deep learning model.
+
+### __Brain Maps Classification using 3D__ `2017`
+Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+
+### __Simultaneous EEG and Eyetracker Recording__  `2016`
+Poster Presentation at ACM Multimedia Conference 2016.
+
 ### Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
 
 ## Publications
