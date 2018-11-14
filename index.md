@@ -45,7 +45,8 @@ Develped DBN based on tensorflow.<br/>
 -Data collection with an infrared-based high precision eye tracker as the ground truth. <br/>
 -Contributed to building and training deep learning model.<br/>
 
-### __Brain Maps Classification using 3D__ `2017`
+### __Brain Maps Classification using 3D CNN__ `2017`
+trained on a cluster
 Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.<br>
 
 ### __Simultaneous EEG and Eyetracker Recording__  `2016`
@@ -54,21 +55,23 @@ Poster Presentation at ACM Multimedia Conference 2016.<br>
 ### __Holistic atlases of functional networks and interactions__  `2016`
 -Preprocessing of fMRI data, task and resting with FSL.<br>
 -Diction Learning and Lasso Regression on fMRI data with matlab.<br>
--2D Visulization of Brain Maps with FSLview.<br>
--3D Visulization of Brain Maps with Paraview.<br>
+-2D Visulization of Brain Maps with FSLview, 3D Visulization of Brain Maps with Paraview.<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2013`
 -Hierarchical clustering on HMM models. <br>
 -Modeling phylogenetic data with HMM.<br>
--Defined a new distance of HMM models.<br>
+-Defining a new distance of HMM models.<br>
 
-### __Mathematical Contest in Modeling (MCM), Honorable Mention__  `2013`
--Multiphysics Topology Optimization of Heat Transfer and Radiation<br>
+### __Multiphysics Topology Optimization of Heat Transfer and Radiation__  `2013`
+-Mathematical Contest in Modeling (MCM), __Honorable Mention__, Team Leader and Programmer<br>
 -Heat distribution model effected by shape of pans considering heat convection, emission and transmission<br>
--Team Leader and Programmer<br>
 
+### __EMS-FES System for paralytic stroke__  `2012`
+-Built functional electrical stimulation(FES) device for foot drop<br>
+-Real-time feedback controlled by Electromyography(EMG) signals<br>
+-Funded by National Students Innovation Training Program, rank 3/80<br>
 
 
 ## Publications
