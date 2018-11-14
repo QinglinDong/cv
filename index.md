@@ -18,21 +18,21 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student and Research Assistant of the Department of Computer Science_<br>
+_Ph.D. Student_ and _Research Assistant_ of the Department of Computer Science<br>
 Cortical Architecture Imaging and Discovery Laboratory. Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
 
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
-_Visiting Student of the Department of Computational Medicine and Bioinformatics_<br>
+_Visiting Student_ of the Department of Computational Medicine and Bioinformatics<br>
 Ye's Lab. Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-_B.S. in Cybernetics, Institute of Robotics and Automation_<br>
+_B.S_. in Cybernetics, Institute of Robotics and Automation<br>
 Zhang's Lab. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)
 
 ## Experience
@@ -51,16 +51,24 @@ Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2
 Poster Presentation at ACM Multimedia Conference 2016.
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
-Study The Sparse Coding method, including Diction Learning and Lasso algorithms ·	Preprocessing of fMRI and EEG signal
+-Preprocessing of fMRI data, task and resting with FSL.
+-Diction Learning and Lasso Regression on fMRI data with matlab.
+-2D Visulization of Brain Maps with FSLview.
+-3D Visulization of Brain Maps with Paraview.
+
+### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2013`
-Hierarchical clustering of HMM models on phylogenetic data
+-Hierarchical clustering on HMM models. 
+-Modeling phylogenetic data with HMM.
+-Defined a new distance of HMM models.
 
 ### __Mathematical Contest in Modeling (MCM), Honorable Mention__  `2013`
-Multiphysics Topology Optimization of Heat Transfer and Radiation
-Programmer
+-Multiphysics Topology Optimization of Heat Transfer and Radiation
+-Heat distribution model effected by shape of pans considering heat convection, emission and transmission
+-Team Leader and Programmer
 
-### Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
+
 
 ## Publications
 
