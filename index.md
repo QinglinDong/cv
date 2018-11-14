@@ -37,22 +37,27 @@ Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions
 
 ## Projects
 
-### __EEG__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __Brain Connectome with Deep Belief Net__ `2017 -`
 
-### __Eye Tracking__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-### __Brain Connectome__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Training a Camera to Perform Eye Tracking__ `2018 - `
+Developed an appearance-based gaze estimation system with CNN, using infrared-based high precision eye tracker as grount truth. 
+
+Contributed to building and training deep learning model.
+
+### __Simultaneous EEG and Eyetracker Recording__  `2016 - 2017`
+
+
+### __Brain Maps Classification using Deep Learning__ `2015.6 - 2015.8`
+
+
+
+
 
 ## Academic Experience
 
-### Oral Presentation at ACM Multimedia Conference 2016.
-### Poster Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+### Poster Presentation at ACM Multimedia Conference 2016.
+### Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
 ### Poster Presentation at Information Processing in Medical Imaging(IPMI) 2017
 ### Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
 
