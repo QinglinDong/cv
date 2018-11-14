@@ -18,14 +18,14 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student_ and _Research Assistant_ of the Department of Computer Science<br>
+_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science<br>
 Cortical Architecture Imaging and Discovery Laboratory. Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
 
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
-_Visiting Student_ of the Department of Computational Medicine and Bioinformatics<br>
+_Visiting Student_, the Department of Computational Medicine and Bioinformatics<br>
 Ye's Lab. Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
 
 ### __Nankai University__ `2010.8 - 2014.6`
@@ -38,35 +38,36 @@ Zhang's Lab. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teacher
 ## Experience
 
 ### __Brain Connectome with Deep Belief Net__ `2018 -`
-Develped DBN based on tensorflow.
+Develped DBN based on tensorflow.<br/>
 
 ### __Training a Camera to Perform Eye Tracking__ `2018 - `
-An appearance-based gaze estimation system with CNN, using infrared-based high precision eye tracker as grount truth. <br/>
-Contributed to building and training deep learning model.
+-An appearance-based gaze estimation model with CNN.<br/>
+-Data collection with an infrared-based high precision eye tracker as the ground truth. <br/>
+-Contributed to building and training deep learning model.<br/>
 
 ### __Brain Maps Classification using 3D__ `2017`
-Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.
+Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.<br>
 
 ### __Simultaneous EEG and Eyetracker Recording__  `2016`
-Poster Presentation at ACM Multimedia Conference 2016.
+Poster Presentation at ACM Multimedia Conference 2016.<br>
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
--Preprocessing of fMRI data, task and resting with FSL.
--Diction Learning and Lasso Regression on fMRI data with matlab.
--2D Visulization of Brain Maps with FSLview.
--3D Visulization of Brain Maps with Paraview.
+-Preprocessing of fMRI data, task and resting with FSL.<br>
+-Diction Learning and Lasso Regression on fMRI data with matlab.<br>
+-2D Visulization of Brain Maps with FSLview.<br>
+-3D Visulization of Brain Maps with Paraview.<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2013`
--Hierarchical clustering on HMM models. 
--Modeling phylogenetic data with HMM.
--Defined a new distance of HMM models.
+-Hierarchical clustering on HMM models. <br>
+-Modeling phylogenetic data with HMM.<br>
+-Defined a new distance of HMM models.<br>
 
 ### __Mathematical Contest in Modeling (MCM), Honorable Mention__  `2013`
--Multiphysics Topology Optimization of Heat Transfer and Radiation
--Heat distribution model effected by shape of pans considering heat convection, emission and transmission
--Team Leader and Programmer
+-Multiphysics Topology Optimization of Heat Transfer and Radiation<br>
+-Heat distribution model effected by shape of pans considering heat convection, emission and transmission<br>
+-Team Leader and Programmer<br>
 
 
 
