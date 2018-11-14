@@ -12,30 +12,30 @@ pdf: true
 <a href="qinglin@uga.edu.edu" style="margin-left:0.5em">qinglin@uga.edu.edu</a>
 </div>
 
-## Education Experience
+## Education
 
-### __University of Georgia, Cortical Architecture Imaging and Discovery Laboratory__ `2014.8 -`
+### __University of Georgia__ `2014.8 -`
 ```
 Athens, GA
 ```
 _Ph.D. Student and Research Assistant of the Department of Computer Science_<br>
-Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
+Cortical Architecture Imaging and Discovery Laboratory. Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
 
-### __University of Michigan, Ye Lab__ `2016.5 - 2016.8`
+### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
 _Visiting Student of the Department of Computational Medicine and Bioinformatics_<br>
-Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
+Ye's Lab. Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-_B.S. in Cybernetics_<br>
-Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions/35737838_Han_Zhang)
+_B.S. in Cybernetics, Institute of Robotics and Automation_<br>
+Zhang's Lab. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)
 
-## Academic Experience
+## Experience
 
 ### __Brain Connectome with Deep Belief Net__ `2018 -`
 Develped DBN based on tensorflow.
@@ -49,6 +49,16 @@ Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2
 
 ### __Simultaneous EEG and Eyetracker Recording__  `2016`
 Poster Presentation at ACM Multimedia Conference 2016.
+
+### __Holistic atlases of functional networks and interactions__  `2016`
+Study The Sparse Coding method, including Diction Learning and Lasso algorithms ·	Preprocessing of fMRI and EEG signal
+
+### __Evolution Trees of Protein via Hidden Markov Models__  `2013`
+Hierarchical clustering of HMM models on phylogenetic data
+
+### __Mathematical Contest in Modeling (MCM), Honorable Mention__  `2013`
+Multiphysics Topology Optimization of Heat Transfer and Radiation
+Programmer
 
 ### Reviewer for The 2016 International Conference on Progress in Informatics and Computing.
 
@@ -64,15 +74,6 @@ Poster Presentation at ACM Multimedia Conference 2016.
 ### Li, X., Zhang, T., Dong, Q., Zhang, S., Hu, X., Du, L., . . . Liu, T. (2017). Predicting cortical 3-hinge locations via structural connective features. Paper presented at the Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium on.
 ### Liu, S., Lv, J., Hou, Y., Shoemaker, T., Dong, Q., Li, K., & Liu, T. (2016). What Makes a Good Movie Trailer?: Interpretation from Simultaneous EEG and Eyetracker Recording. Paper presented at the Proceedings of the 2016 ACM on Multimedia Conference.
 ### Li, X., Dong, Q., Jiang, X., Lv, J., & Liu, T. (2016). Multple-demand system identification and characterization via sparse representations of fMRI data. Paper presented at the Biomedical Imaging (ISBI), 2016 IEEE 13th International Symposium on.
-
-## Teaching
-
-## Honors & Awards
-
-
-## Opensource Contribution
-[Nilearn](https://nilearn.github.io/)
-
 
 <!-- ### Footer
 
