@@ -35,6 +35,8 @@ Tianjin, China
 _B.S. in Cybernetics_<br>
 Advised by [Dr. Han Zhang](https://www.researchgate.net/scientific-contributions/35737838_Han_Zhang)
 
+## Projects
+
 ## Academic Experience
 
 ### Oral Presentation at ACM Multimedia Conference 2016.
