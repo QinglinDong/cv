@@ -36,14 +36,17 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation<br>
 Zhang's Lab. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)
 
 ## Experience
-
+ 
 ### __Brain Connectome with Deep Belief Net__ `2018 -`
 Develped DBN based on tensorflow.<br/>
 
 ### __Training a Camera to Perform Eye Tracking__ `2018 - `
 -An appearance-based gaze estimation model with CNN.<br/>
--Data collection with an infrared-based high precision eye tracker as the ground truth. <br/>
--Contributed to building and training deep learning model.<br/>
+-Syncronize a Webcam with an infrared-based high precision eye tracker as the ground truth. <br/>
+
+### __Eye Tracking on Raspberry pi__ `2018 - `
+-Train a real-time eye detection model with YOLO and transfer learning.<br/>
+-Run YOLOv3 on Raspberry pi3 with neural compute stick. <br/>
 
 ### __Brain Maps Classification using 3D CNN__ `2017`
 trained on a cluster
@@ -73,6 +76,10 @@ Poster Presentation at ACM Multimedia Conference 2016.<br>
 -Real-time feedback controlled by Electromyography(EMG) signals<br>
 -Funded by National Students Innovation Training Program, rank 3/80<br>
 
+## Skills
+Programing Languages: Python, matlab, C, C++, bash script, html, css, javascript.<br>
+Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
+Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
 
 ## Publications
 
