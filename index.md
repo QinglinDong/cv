@@ -46,13 +46,13 @@ Reviewer for The International Conference on Progress in Informatics and Computi
 
 ### __Deep Learning on Eye Tracking__ `2018`
 Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
-A long-distance appearance-based gaze estimation model with CNN (submitted) <br>
-Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
+A long-distance appearance-based gaze estimation model with CNN (submitted). <br>
+Simultaneous EEG and Eyetracker Recording. (2016 ACM Multimedia)
 
 ### __Undergraduate__  `2012-2014`
-Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)
-Mathematical Contest in Modeling (MCM) (Honorable Mention) 
-Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke<br>
+Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
+Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
+Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke.<br>
 
 ## Skills
 Programing Languages: Python, matlab, C/C++, bash script, html, css, javascript.<br>
