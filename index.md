@@ -35,9 +35,9 @@ _B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Z
 ## Projects
 
 ### __FMRI Analysis with Deep Generative models__ `2019 -`
-Spatiotemporal model for fMRI with Recurrent Autoencoder (submitted) <br>
-ADHD Classification with Deep Variational Autoencoder (submitted) <br>
-Hierarchical Brain Connectome with Deep Belief Net (submitted) <br>
+Spatiotemporal model for fMRI with Recurrent Autoencoder. (submitted) <br>
+ADHD Classification with Deep Variational Autoencoder. (submitted) <br>
+Hierarchical Brain Connectome with Deep Belief Net. (submitted) <br>
 
 ### __Eye Tracking with Deep Learning__ `2018 `
 Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
@@ -46,13 +46,11 @@ A long-distance appearance-based gaze estimation model with CNN (submitted) <br>
 ### __Brain Maps Classification with Deep Learning__ `2017`
 Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. (2017 IEEE ISBI Oral) <br>
 
-### __Multi-modal analysis of EEG and Eyetracker  `2016`
+### __Multi-modal analysis of EEG and Eyetracker__  `2016`
 Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
 Diction Learning and Lasso Regression on fMRI data, preprocessing and visulization of fMRI data. (2016 IEEE ISBI)<br>
-
-### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2014`
 Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate Thesis)
@@ -61,12 +59,16 @@ Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate The
 Multiphysics Topology Optimization of Heat Transfer and Radiation, __Honorable Mention__, Team Leader
 
 ### __EMS-FES System for paralytic stroke__  `2012`
--Built functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG)device for foot drop<br>
+Built functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG)device for foot drop<br>
 
 ## Skills
 Programing Languages: Python, matlab, C, C++, bash script, html, css, javascript.<br>
 Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
 Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
+
+## Open Source Contribution
+### contributed to python package [nilearn](https://nilearn.github.io/).
+### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ## Publications
 
