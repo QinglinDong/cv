@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __University of Georgia__ `2014.8 -`
+### __University of Georgia__ `2014.8 - 2019.12`
 ```
 Athens, GA
 ```
@@ -35,24 +35,22 @@ _B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Z
 ## Projects
 
 ### __FMRI Analysis with Deep Generative models__ `2019 -`
-Spatiotemporal model for fMRI with Recurrent Autoencoder (submitted)
-ADHD Classification with Deep Variational Autoencoder (submitted)
-Hierarchical Brain Connectome with Deep Belief Net (submitted)
+Spatiotemporal model for fMRI with Recurrent Autoencoder (submitted) <br>
+ADHD Classification with Deep Variational Autoencoder (submitted) <br>
+Hierarchical Brain Connectome with Deep Belief Net (submitted) <br>
 
 ### __Eye Tracking with Deep Learning__ `2018 `
-Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick.
-A long-distance appearance-based gaze estimation model with CNN (submitted)
+Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
+A long-distance appearance-based gaze estimation model with CNN (submitted) <br>
 
 ### __Brain Maps Classification with Deep Learning__ `2017`
-Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. (2017 IEEE ISBI Oral)
+Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. (2017 IEEE ISBI Oral) <br>
 
 ### __Multi-modal analysis of EEG and Eyetracker  `2016`
 Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
--Preprocessing of fMRI data, task and resting with FSL.<br>
--Diction Learning and Lasso Regression on fMRI data with matlab.<br>
--2D Visulization of Brain Maps with FSLview, 3D Visulization of Brain Maps with Paraview.<br>
+-Diction Learning and Lasso Regression on fMRI data, preprocessing and visulization of fMRI data. (2016 IEEE ISBI)<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
