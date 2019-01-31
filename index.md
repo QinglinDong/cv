@@ -34,23 +34,21 @@ _B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Z
 
 ## Projects
 
-### __FMRI Analysis with Deep Generative models__ `2019 -`
+### __Deep Learning on functional MRI__ `2016 -`
 Spatiotemporal model for fMRI with Recurrent Autoencoder. (submitted) <br>
 ADHD Classification with Deep Variational Autoencoder. (submitted) <br>
 Hierarchical Brain Connectome with Deep Belief Net. (submitted) <br>
+1D CNN on Gyri/Sulci Classification. (2019 IEEE ISBI) <br>
+Deep Sparse RNN on fMRI classification. (2018 IEEE TMI)<br>
+3D CNN on Brain Maps Classification. (2017 IEEE ISBI Oral)<br>
+Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
 
-### __Eye Tracking with Deep Learning__ `2018 `
+### __Deep Learning on Eye Tracking__ `2018 `
 Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 A long-distance appearance-based gaze estimation model with CNN (submitted) <br>
 
-### __Brain Maps Classification with Deep Learning__ `2017`
-Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. (2017 IEEE ISBI Oral) <br>
-
 ### __Multi-modal analysis of EEG and Eyetracker__  `2016`
 Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
-
-### __Holistic atlases of functional networks and interactions__  `2016`
-Diction Learning and Lasso Regression on fMRI data, preprocessing and visulization of fMRI data. (2016 IEEE ISBI)<br>
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2014`
 Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate Thesis)
@@ -59,19 +57,21 @@ Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate The
 Multiphysics Topology Optimization of Heat Transfer and Radiation, __Honorable Mention__, Team Leader
 
 ### __EMS-FES System for paralytic stroke__  `2012`
-Built functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG)device for foot drop<br>
+Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke<br>
 
 ## Skills
 Programing Languages: Python, matlab, C, C++, bash script, html, css, javascript.<br>
 Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
 Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
 
-## Open Source Contribution
-### contributed to python package [nilearn](https://nilearn.github.io/).
-### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
+## Experiences
+### Contributed to python package [nilearn](https://nilearn.github.io/).
+### Reviewer for The International Conference on Progress in Informatics and Computing. `2016`
 
 ## Publications
 
+### Fangfei Ge, Shu Zhang, Heng Huang, Xi Jiang, Lei Guo, Xianqiao Wang, Tianming Liu, Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex, accepted, ISBI 2019
+### Wang, H., Zhao, S., Dong, Q., Cui, Y., Chen, Y., Han, J., ... & Liu, T. (2018). Recognizing Brain States Using Deep Sparse Recurrent Neural Network. IEEE transactions on medical imaging.
 ### Zhao, Y., Dong, Q., Zhang, S., Zhang, W., Chen, H., Jiang, X., . . . Liu, T. (2018). Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. IEEE Transactions on Biomedical Engineering, 65(9), 1975-1984. 
 ### Huang, H., Hu, X., Dong, Q., Zhao, S., Zhang, S., Zhao, Y., . . . Liu, T. (2018). Modeling task fMRI data via mixture of deep expert networks. Paper presented at the Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium on.
 ### Huang, H., Hu, X., Zhao, Y., Makkie, M., Dong, Q., Zhao, S., . . . Liu, T. (2018). Modeling task fMRI data via deep convolutional autoencoder. IEEE transactions on medical imaging, 37(7), 1551-1561. 
