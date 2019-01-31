@@ -34,7 +34,7 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han
 
 ## Experiences
 
-### __Deep Learning on functional MRI__ `2016 -`
+### __Deep Learning on functional MRI__ `2016 - 2019`
 Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
 ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
 Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
@@ -44,7 +44,7 @@ Brain Maps Classification with 3D Convolutional Neural Network. (2017 IEEE ISBI 
 Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
 Reviewer for The International Conference on Progress in Informatics and Computing (2016 PIC). 
 
-### __Deep Learning on Eye Tracking__ `2018`
+### __Deep Learning on Eye Tracking__ `2018 - 2019`
 Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 A long-distance appearance-based gaze estimation model with CNN (submitted). <br>
 Simultaneous EEG and Eyetracker Recording. (2016 ACM Multimedia)
@@ -61,7 +61,7 @@ Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
 
 ## Publications
 
-### Ge, F., Zhang, S., Huang, H., Jiang, X., Dong, Q., Guo, L., Wang, X., Liu, T. Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex, In Biomedical Imaging (ISBI 2019), 2019 IEEE 16th International Symposium.
+### Ge, F., Zhang, S., Huang, H., Jiang, X., Dong, Q., Guo, L., Wang, X., Liu, T.  (2019)Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex, In Biomedical Imaging, 2019 IEEE 16th International Symposium.
 ### Wang, H., Zhao, S., Dong, Q., Cui, Y., Chen, Y., Han, J., ... & Liu, T. (2018). Recognizing Brain States Using Deep Sparse Recurrent Neural Network. IEEE transactions on medical imaging.
 ### Zhao, Y., Dong, Q., Zhang, S., Zhang, W., Chen, H., Jiang, X., . . . Liu, T. (2018). Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. IEEE Transactions on Biomedical Engineering, 65(9), 1975-1984. 
 ### Huang, H., Hu, X., Dong, Q., Zhao, S., Zhang, S., Zhao, Y., . . . Liu, T. (2018). Modeling task fMRI data via mixture of deep expert networks. Paper presented at the Biomedical Imaging, In Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium.
