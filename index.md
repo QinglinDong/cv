@@ -18,49 +18,46 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by [Dr. Tianming Liu].(http://cobweb.cs.uga.edu/~tliu/)<br>
+_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
-_Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye].(https://midas.umich.edu/faculty-member/jieping-ye/)<br>
+_Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-_B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han Zhang].(http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)<br>
+_B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
 
-## Projects
+## Experiences
 
 ### __Deep Learning on functional MRI__ `2016 -`
-Spatiotemporal model for fMRI with Recurrent Autoencoder. (submitted) <br>
-ADHD Classification with Deep Variational Autoencoder. (submitted) <br>
-Hierarchical Brain Connectome with Deep Belief Net. (submitted) <br>
+Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
+ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
+Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
 Gyri/sulci Classification with Convolution Neural Network. (2019 IEEE ISBI) <br>
 Deep Sparse RNN on task-fMRI classification. (2018 IEEE TMI)<br>
 Brain Maps Classification with 3D Convolutional Neural Network. (2017 IEEE ISBI Oral)<br>
 Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
+Reviewer for The International Conference on Progress in Informatics and Computing (2016 PIC). 
 
-### __Deep Learning on Eye Tracking__ `2018 `
+### __Deep Learning on Eye Tracking__ `2018`
 Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 A long-distance appearance-based gaze estimation model with CNN (submitted) <br>
 Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
 
-### __Undergraduate__  `2014`
+### __Undergraduate__  `2012-2014`
 Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)
-Mathematical Contest in Modeling (MCM) (Honorable Mention)  `2013`
-Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke<br>`2012-2014`
+Mathematical Contest in Modeling (MCM) (Honorable Mention) 
+Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke<br>
 
 ## Skills
 Programing Languages: Python, matlab, C/C++, bash script, html, css, javascript.<br>
 Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
 Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
-
-## Experiences
-### Contributed to python package [nilearn](https://nilearn.github.io/).
-### Reviewer for The International Conference on Progress in Informatics and Computing. `2016`
 
 ## Publications
 
