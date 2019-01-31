@@ -52,9 +52,9 @@ Simultaneous EEG and Eyetracker Recording. (2016 ACM Multimedia)
 ### __Undergraduate__  `2012-2014`
 Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
 Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
-Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke.<br>
+Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
-## Skills
+## Tool Sets
 Programing Languages: Python, matlab, C/C++, bash script, html, css, javascript.<br>
 Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
 Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
