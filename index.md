@@ -18,35 +18,41 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science<br>
-Cortical Architecture Imaging and Discovery Laboratory. Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).
+_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by[Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/)<br>
 
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
-_Visiting Student_, the Department of Computational Medicine and Bioinformatics<br>
-Ye's Lab. Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).
+_Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/)<br>
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-_B.S_. in Cybernetics, Institute of Robotics and Automation<br>
-Zhang's Lab. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)
+_B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)<br>
 
-## Experience
+## Projects
  
-### __Brain Connectome with Deep Belief Net__ `2018 -`
-Develped DBN based on tensorflow.<br/>
+### __Spatiotemporal model for fMRI with Recurrent Autoencoder__ `2019 -`
+Unsupervised model for resting-state fMRI.
+First united model for both spatial and temporal information of fMRI.
 
-### __Training a Camera to Perform Eye Tracking__ `2018 - `
+### __ADHD Classification with Deep Variational Autoencoder__ `2019 -`
+Generative model for resting-state fMRI.
+State-of-art classification results of ADHD.
+
+### __Long Distance Eye Tracking__ `2018 `
 -An appearance-based gaze estimation model with CNN.<br/>
 -Syncronize a Webcam with an infrared-based high precision eye tracker as the ground truth. <br/>
 
-### __Eye Tracking on Raspberry pi__ `2018 - `
+### __Eye Tracking on Raspberry pi__ `2018 `
 -Train a real-time eye detection model with YOLO and transfer learning.<br/>
 -Run YOLOv3 on Raspberry pi3 with neural compute stick. <br/>
+
+### __Brain Connectome with Deep Belief Net__ `2017`
+Deep Learning yielded hierarchical connectome.
+Develped DBN based on tensorflow.
 
 ### __Brain Maps Classification using 3D CNN__ `2017`
 trained on a cluster
@@ -62,7 +68,7 @@ Poster Presentation at ACM Multimedia Conference 2016.<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
-### __Evolution Trees of Protein via Hidden Markov Models__  `2013`
+### __Evolution Trees of Protein via Hidden Markov Models (Undergraduate Thesis)__  `2014`
 -Hierarchical clustering on HMM models. <br>
 -Modeling phylogenetic data with HMM.<br>
 -Defining a new distance of HMM models.<br>
