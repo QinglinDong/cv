@@ -55,9 +55,9 @@ Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
 ## Skill Sets
-__Programming__: Python, matlab, C/C++, linux, html/js. __Machine Learning__: Tensorflow, Keras, sklearn, weka. __Visulization__: matplotlib, D3, seaborn, FSL,paraview.<br>
-__Models__: LinReg/Lasso/RidgeReg/LogReg, Perceptron/SVM, kNN/kmeans/spec, NB/MLE/MAP/EM, PCA/ICA/DL/SC, CNN, RNN/LSTM, RBM/DBN/VAE/GAN, NAS, Evolution/Particle
-
+__Programming__: Python, matlab, C/C++, linux, html/js, Tensorflow, Keras, sklearn, weka. <br>
+__Machine Learning__: LinReg/Lasso/RidgeReg/LogReg, Perceptron/SVM, kNN/kmeans/Spectral Clustering, NB/MLE/MAP/EM/MCMC/VI, PCA/ICA/DL/SC, CNN, RNN/LSTM, RBM/DBN/VAE/GAN, NAS, Evolution/Particle. <br>
+__Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
 
 ## Publications
 
