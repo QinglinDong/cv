@@ -54,10 +54,10 @@ Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergr
 Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
-## Tool Sets
-Programing Languages: Python, matlab, C/C++, bash script, html, css, javascript.<br>
-Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
-Visulization: matplotlib, D3, seaborn, FSL, MRICro, paraview.<br>
+## Skill Sets
+__Programming__: Python, matlab, C/C++, linux, html/js. __Machine Learning__: Tensorflow, Keras, sklearn, weka. __Visulization__: matplotlib, D3, seaborn, FSL,paraview.<br>
+__Models__: LinReg/Lasso/RidgeReg/LogReg, Perceptron/SVM, kNN/kmeans/spec, NB/MLE/MAP/EM, PCA/ICA/DL/SC, CNN, RNN/LSTM, RBM/DBN/VAE/GAN, NAS, Evolution/Particle
+
 
 ## Publications
 
