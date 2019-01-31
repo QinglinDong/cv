@@ -18,7 +18,7 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by[Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/)<br>
+_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/)<br>
 
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
@@ -33,8 +33,10 @@ Tianjin, China
 _B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh)<br>
 
 ## Projects
- 
-### __Spatiotemporal model for fMRI with Recurrent Autoencoder__ `2019 -`
+
+### __FMRI Analysis with Generative models__ `2019 -`
+
+#### __Spatiotemporal model for fMRI with Recurrent Autoencoder__ `2019 -`
 Unsupervised model for resting-state fMRI.
 First united model for both spatial and temporal information of fMRI.
 
