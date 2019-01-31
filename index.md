@@ -57,6 +57,9 @@ Multiphysics Topology Optimization of Heat Transfer and Radiation, __Honorable M
 ### __EMS-FES System for paralytic stroke__  `2012`
 Built device of functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG) for paralytic stroke<br>
 
+<br>
+<br>
+
 ## Skills
 Programing Languages: Python, matlab, C, C++, bash script, html, css, javascript.<br>
 Machine Learning: Tensorflow, Keras, sklearn, nilearn, weka<br>
