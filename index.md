@@ -50,12 +50,12 @@ Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutiona
 Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
--Diction Learning and Lasso Regression on fMRI data, preprocessing and visulization of fMRI data. (2016 IEEE ISBI)<br>
+Diction Learning and Lasso Regression on fMRI data, preprocessing and visulization of fMRI data. (2016 IEEE ISBI)<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
 ### __Evolution Trees of Protein via Hidden Markov Models__  `2014`
--Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate Thesis)
+Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate Thesis)
 
 ### __Mathematical Contest in Modeling (MCM)__  `2013`
 Multiphysics Topology Optimization of Heat Transfer and Radiation, __Honorable Mention__, Team Leader
