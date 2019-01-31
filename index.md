@@ -34,34 +34,20 @@ _B.S_. in Cybernetics, Institute of Robotics and AutomationAdvised by [Dr. Han Z
 
 ## Projects
 
-### __FMRI Analysis with Generative models__ `2019 -`
+### __FMRI Analysis with Deep Generative models__ `2019 -`
+Spatiotemporal model for fMRI with Recurrent Autoencoder (submitted)
+ADHD Classification with Deep Variational Autoencoder (submitted)
+Hierarchical Brain Connectome with Deep Belief Net (submitted)
 
-#### __Spatiotemporal model for fMRI with Recurrent Autoencoder__ `2019 -`
-Unsupervised model for resting-state fMRI.
-First united model for both spatial and temporal information of fMRI.
+### __Eye Tracking with Deep Learning__ `2018 `
+Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick.
+A long-distance appearance-based gaze estimation model with CNN (submitted)
 
-### __ADHD Classification with Deep Variational Autoencoder__ `2019 -`
-Generative model for resting-state fMRI.
-State-of-art classification results of ADHD.
+### __Brain Maps Classification with Deep Learning__ `2017`
+Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. (2017 IEEE ISBI Oral)
 
-### __Long Distance Eye Tracking__ `2018 `
--An appearance-based gaze estimation model with CNN.<br/>
--Syncronize a Webcam with an infrared-based high precision eye tracker as the ground truth. <br/>
-
-### __Eye Tracking on Raspberry pi__ `2018 `
--Train a real-time eye detection model with YOLO and transfer learning.<br/>
--Run YOLOv3 on Raspberry pi3 with neural compute stick. <br/>
-
-### __Brain Connectome with Deep Belief Net__ `2017`
-Deep Learning yielded hierarchical connectome.
-Develped DBN based on tensorflow.
-
-### __Brain Maps Classification using 3D CNN__ `2017`
-trained on a cluster
-Oral Presentation at IEEE International Symposium on Biomedical Imaging (ISBI) 2017.<br>
-
-### __Simultaneous EEG and Eyetracker Recording__  `2016`
-Poster Presentation at ACM Multimedia Conference 2016.<br>
+### __Multi-modal analysis of EEG and Eyetracker  `2016`
+Simultaneous EEG and Eyetracker Recording (2016 ACM Multimedia)
 
 ### __Holistic atlases of functional networks and interactions__  `2016`
 -Preprocessing of fMRI data, task and resting with FSL.<br>
@@ -70,19 +56,14 @@ Poster Presentation at ACM Multimedia Conference 2016.<br>
 
 ### __Reviewer for The International Conference on Progress in Informatics and Computing__. `2016`
 
-### __Evolution Trees of Protein via Hidden Markov Models (Undergraduate Thesis)__  `2014`
--Hierarchical clustering on HMM models. <br>
--Modeling phylogenetic data with HMM.<br>
--Defining a new distance of HMM models.<br>
+### __Evolution Trees of Protein via Hidden Markov Models__  `2014`
+-Hierarchical clustering with HMM models on phylogenetic data. (Undergraduate Thesis)
 
-### __Multiphysics Topology Optimization of Heat Transfer and Radiation__  `2013`
--Mathematical Contest in Modeling (MCM), __Honorable Mention__, Team Leader and Programmer<br>
--Heat distribution model effected by shape of pans considering heat convection, emission and transmission<br>
+### __Mathematical Contest in Modeling (MCM)__  `2013`
+Multiphysics Topology Optimization of Heat Transfer and Radiation, __Honorable Mention__, Team Leader
 
 ### __EMS-FES System for paralytic stroke__  `2012`
--Built functional electrical stimulation(FES) device for foot drop<br>
--Real-time feedback controlled by Electromyography(EMG) signals<br>
--Funded by National Students Innovation Training Program, rank 3/80<br>
+-Built functional electrical stimulation(FES) controlled by Real-time Electromyography(EMG)device for foot drop<br>
 
 ## Skills
 Programing Languages: Python, matlab, C, C++, bash script, html, css, javascript.<br>
