@@ -14,7 +14,7 @@ pdf: true
 
 ## Education
 
-### __University of Georgia__ `2014.8 - 2019.12`
+### __University of Georgia__ `2014.8 - 2019.8`
 ```
 Athens, GA
 ```
