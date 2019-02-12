@@ -34,8 +34,7 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han
 
 ## Experiences
 
-### __Deep Learning on brain functional MRI__ `2016 - 2019`
-_Challenge: extreme data complexity, weak supervision(incomplete, inexact), extremely high dimension_<br>
+### __Deep Learning on fMRI__(_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
 Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
 ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
 Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
