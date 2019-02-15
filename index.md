@@ -36,35 +36,52 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Experiences
 
-### __Unsupervised Deep Learning on Neuroimaging__  `2019 Dissertation`<br>
-_incomplete and inexact supervision, extremely high dimension_<br>
-### __CNN:__ ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`2019`<br>
-### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
-### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
-### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
+### __Unsupervised Deep Learning on Neuroimaging__  `2019`<br>
+_Dissertation_. Incomplete and inexact supervision, extremely high dimension<br>
+
+### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `2019` <br>
+Submitted to _IEEE transactions on medical imaging (TMI)_
+
+### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `2019` <br>
+Submitted to _IEEE Transactions on Biomedical Engineering (TBME)_
+
+### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `2019` <br>
+Submitted to _IEEE Transactions on Biomedical Engineering (TBME)_
+
+### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `2019`. <br>
+Submitted to _IEEE Transactions on Human-Machine Systems_
+
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
-### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
+
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018`<br>
-_IEEE transactions on medical imaging_
+_IEEE transactions on medical imaging (TMI)_
+
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
-_IEEE transactions on medical imaging_<br>
-_conference on Information Processing in Medical Imaging (IPMI)_
+_IEEE transactions on medical imaging (TMI)and conference on Information Processing in Medical Imaging (IPMI)_
+
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
+
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018,`<br>
 Oral on _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
 _IEEE Transactions on Biomedical Engineering (TBME)_
+
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
 _Medical image analysis (MIA)_<br>
 _The Medical Image Computing and Computer Assisted Intervention (MICCAI)_
+
 ### __DL:__ Connectome-scale brain network interactions via time-evolving graphs.`2017 `<br>
 _NeuroImage_
+
 ### __DL:__ Multple-demand system identification and characterization via sparse representations. `2016`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
 
-### Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`<br>
-### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 Thesis`<br>
+### Interpretation from Simultaneous EEG and Eyetracker Recording `2016`<br>
+_the Proceedings of the 2016 ACM on Multimedia Conference (ACMMM)_
+
+### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 `<br>
+_Undergraduate Thesis_
 <!---
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
