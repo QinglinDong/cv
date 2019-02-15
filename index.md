@@ -34,16 +34,20 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han
 
 ## Experiences
 
-### __Deep Learning on neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
-CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.(working)<br>
-RAE: Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
-VAE: ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
-DBN: Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
-CNN: Gyri/sulci Classification with Convolution Neural Network. (2019 IEEE ISBI) <br>
-RNN: Deep Sparse RNN on task-fMRI classification. (2018 IEEE TMI)<br>
-CNN: Brain Maps Classification with 3D Convolutional Neural Network. (2017 IEEE ISBI Oral)<br>
-DL:Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
-Reviewer for The International Conference on Progress in Informatics and Computing (2016 PIC). 
+### __Deep Learning on Neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
+CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
+RAE: Spatiotemporal model for fMRI with Recurrent Autoencoder. `Submitted` <br>
+VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
+DBN: Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
+CNN: Gyri/sulci Classification with Convolution Neural Network.  `2019 IEEE ISBI`<br>
+RNN: Deep Sparse RNN on task-fMRI classification. `2018 IEEE TMI`<br>
+CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
+DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
+CNN: Brain Maps Classification with 3D Convolutional Neural Network. `2017 IEEE ISBI Oral`<br>
+CAE: functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
+DL: connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
+DL:Multiple demand holistic atlases of functional networks and interactions. `2016 IEEE ISBI`<br>
+Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 
 ### __Deep Learning on Eye Tracking__ `2018 - 2019`
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
@@ -68,12 +72,15 @@ __Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
 ### Huang, H., Hu, X., Dong, Q., Zhao, S., Zhang, S., Zhao, Y., . . . Liu, T. (2018). Modeling task fMRI data via mixture of deep expert networks. Paper presented at the Biomedical Imaging, In Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium.
 ### Huang, H., Hu, X., Zhao, Y., Makkie, M., Dong, Q., Zhao, S., . . . Liu, T. (2018). Modeling task fMRI data via deep convolutional autoencoder. IEEE transactions on medical imaging, 37(7), 1551-1561. 
 ### Wang, H., Zhao, S., Dong, Q., Cui, Y., Chen, Y., Han, J., . . . Liu, T. (2018). Recognizing Brain States Using Deep Sparse Recurrent Neural Network. IEEE transactions on medical imaging. 
+### Huang, H., Hu, X., Zhao, Y., Makkie, M., Dong, Q., Zhao, S., ... & Liu, T. (2018). Modeling task fMRI data via deep convolutional autoencoder. IEEE transactions on medical imaging, 37(7), 1551-1561.
 ### Ren, D., Zhao, Y., Chen, H., Dong, Q., Lv, J., & Liu, T. (2017). 3-D functional brain network classification using Convolutional Neural Networks. Paper presented at the Biomedical Imaging, In Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium.
 ### Yuan, J., Li, X., Zhang, J., Luo, L., Dong, Q., Lv, J., . . . Zhang, W. (2017). Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs. NeuroImage. 
 ### Zhao, Y., Dong, Q., Chen, H., Iraji, A., Li, Y., Makkie, M., . . . Liu, T. (2017). Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder. Medical image analysis, 42, 200-211. 
 ### Li, X., Zhang, T., Dong, Q., Zhang, S., Hu, X., Du, L., . . . Liu, T. (2017). Predicting cortical 3-hinge locations via structural connective features. Paper presented at the Biomedical Imaging (ISBI 2017), 2017 IEEE 14th International Symposium.
+### Zhao, Y., Dong, Q., Chen, H., Iraji, A., Li, Y., Makkie, M., ... & Liu, T. (2017). Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder. Medical image analysis, 42, 200-211.
 ### Liu, S., Lv, J., Hou, Y., Shoemaker, T., Dong, Q., Li, K., & Liu, T. (2016). What Makes a Good Movie Trailer?: Interpretation from Simultaneous EEG and Eyetracker Recording. Paper presented at the Proceedings of the 2016 ACM on Multimedia Conference.
 ### Li, X., Dong, Q., Jiang, X., Lv, J., & Liu, T. (2016). Multple-demand system identification and characterization via sparse representations of fMRI data. Paper presented at the Biomedical Imaging, In Biomedical Imaging (ISBI 2016), 2016 IEEE 13th International Symposium.
+
 
 <!-- ### Footer
 
