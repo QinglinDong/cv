@@ -36,27 +36,27 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han
 
 ### __Deep Learning on Neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
 CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
-RAE: Spatiotemporal model for fMRI with Recurrent Autoencoder. `Submitted` <br>
+RAE: Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
 VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
 DBN: Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
-CNN: Gyri/sulci Classification with Convolution Neural Network.  `2019 IEEE ISBI`<br>
-RNN: Deep Sparse RNN on task-fMRI classification. `2018 IEEE TMI`<br>
+CNN: )Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  `2019 IEEE ISBI`<br>
+RNN: Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
 CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
 DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
-CNN: Brain Maps Classification with 3D Convolutional Neural Network. `2017 IEEE ISBI Oral`<br>
-CAE: functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
-DL: connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
-DL:Multiple demand holistic atlases of functional networks and interactions. `2016 IEEE ISBI`<br>
+CNN: 3-D functional brain network classification using Convolutional Neural Networks. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
+CAE: Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
+DL: Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
+DL: Multple-demand system identification and characterization via sparse representations of fMRI data. `2016 IEEE ISBI`<br>
 Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 
 ### __Deep Learning on Eye Tracking__ `2018 - 2019`
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
-CNN: A long-distance appearance-based gaze estimation model with CNN (submitted). <br>
-Simultaneous EEG and Eyetracker Recording. (2016 ACM Multimedia)
+CNN: A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
+Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`
 
 ### __Undergraduate__  `2012-2014`
 HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
-Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
+Mathematical Contest in Modeling (MCM). (2012 Honorable) <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
 ## Skill Sets
