@@ -36,7 +36,8 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Experiences
 
-### __Deep Learning on Neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
+### __Unsupervised Deep Learning on Neuroimaging__  `2019 Dissertation`
+(_incomplete and inexact supervision, extremely high dimension_)
 CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
 RAE: Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
 VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
