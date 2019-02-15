@@ -20,11 +20,13 @@ Athens, GA
 ```
 _Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
+<!---
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
 _Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
+-->
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
