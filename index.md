@@ -18,7 +18,7 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. and _RA_, Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
+_Ph.D._ and _RA_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
 <!---
 ### __University of Michigan__ `2016.5 - 2016.8`
@@ -32,22 +32,22 @@ _Visiting Student_, the Department of Computational Medicine and Bioinformatics,
 ```
 Tianjin, China
 ```
-_B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
+_B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
 
 ## Experiences
 
 ### __Deep Learning on Neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
 CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
-RAE: Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
+RAE: Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
 VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
 DBN: Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
-CNN: Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  `2019 IEEE ISBI`<br>
+CNN: Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019 IEEE ISBI`<br>
 RNN: Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
 CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
 DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
 CNN: 3-D functional brain network classification using Convolutional Neural Networks. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
-CAE: Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
-DL: Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
+CAE: Functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
+DL: Connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
 DL: Multple-demand system identification and characterization via sparse representations of fMRI data. `2016 IEEE ISBI`<br>
 Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 
