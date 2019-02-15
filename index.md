@@ -64,8 +64,7 @@ _IEEE transactions on medical imaging (TMI)and conference on Information Process
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
 
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018,`<br>
-Oral on _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
-_IEEE Transactions on Biomedical Engineering (TBME)_
+Oral on _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
 _Medical image analysis (MIA)_<br>
