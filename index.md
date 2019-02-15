@@ -45,10 +45,10 @@ CNN: Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019 IEEE I
 RNN: Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
 CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
 DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
-CNN: 3-D functional brain network classification using Convolutional Neural Networks. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
+CNN: 3-D functional brain network classification using CNN. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
 CAE: Functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
 DL: Connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
-DL: Multple-demand system identification and characterization via sparse representations of fMRI data. `2016 IEEE ISBI`<br>
+DL: Multple-demand system identification and characterization via sparse representations. `2016 IEEE ISBI`<br>
 Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 
 ### __Other__ 
