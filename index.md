@@ -43,12 +43,12 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 ### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
 ### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI) _
+_IEEE International Symposium on Biomedical Imaging (ISBI)_
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI) _
+_IEEE International Symposium on Biomedical Imaging (ISBI)_
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
 Oral on_IEEE International Symposium on Biomedical Imaging (ISBI) _
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
