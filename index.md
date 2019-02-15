@@ -20,13 +20,13 @@ Athens, GA
 ```
 _Ph.D._ and _RA_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
-<!---
+
 ### __University of Michigan__ `2016.5 - 2016.8`
 ```
 Ann Arbor, MI
 ```
 _Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
--->
+
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
@@ -37,8 +37,8 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 ## Projects
 
 ### __Unsupervised Deep Learning on Neuroimaging__  `2019`<br>
-_PhD Dissertation_. <br>
-Incomplete and inexact supervision, extremely high dimension<br>
+(In progress) _PhD Dissertation_. <br>
+Challenge: Incomplete and inexact supervision, high dimension of features<br>
 
 ### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `2019` <br>
 (Submitted) _IEEE transactions on medical imaging (TMI)_<br>
@@ -54,7 +54,7 @@ Contribution: framework design, code implementation, result analysis, writting.<
 
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `2019`. <br>
 (Submitted) _IEEE Transactions on Human-Machine Systems_<br>
-Contribution: code implementation.<br>
+Contribution: framework design(part), code implementation(part), writting(part).<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
@@ -71,11 +71,11 @@ Contribution: framework design.<br>
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
-Contribution: framework design.<br>
+Contribution: framework design(part).<br>
 
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018`<br>
 Oral on _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_<br>
-Contribution: framework design, code implementation.<br>
+Contribution: framework design(part), code implementation.<br>
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
 _Medical image analysis (MIA)_<br>
@@ -87,7 +87,7 @@ _NeuroImage_<br>
 Contribution: framework design(part).<br>
 
 ### __DL:__ Multple-demand system identification and characterization via sparse representations. `2016`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI)_<br><br>
+_IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
 Contribution: framework design(part), writting(part).<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording `2016`<br>
