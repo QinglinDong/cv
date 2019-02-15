@@ -49,14 +49,12 @@ DL: Spatio-temporal modeling of connectome-scale brain network interactions via 
 DL: Multple-demand system identification and characterization via sparse representations of fMRI data. `2016 IEEE ISBI`<br>
 Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 
-### __Deep Learning on Eye Tracking__ `2018 - 2019`
+### __Other__ 
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 CNN: A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
 Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`
-
-### __Undergraduate__  `2012-2014`
-HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
-Mathematical Contest in Modeling (MCM). (2012 Honorable) <br>
+HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 Thesis`<br>
+Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
 ## Skill Sets
