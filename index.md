@@ -67,15 +67,15 @@ Contribution: framework design.<br>
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
 _IEEE transactions on medical imaging (TMI)_<br>
 _conference on Information Processing in Medical Imaging (IPMI)_<br>
-Contribution: framework design.<br>
+Contribution: framework design, conference poster presentation.<br>
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
 Contribution: framework design(part).<br>
 
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018`<br>
-Oral on _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_<br>
-Contribution: framework design(part), code implementation.<br>
+_IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_<br>
+Contribution: framework design(part), code implementation, conference oral presentation.<br>
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
 _Medical image analysis (MIA)_<br>
@@ -92,7 +92,7 @@ Contribution: framework design(part), writting(part).<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording `2016`<br>
 _the Proceedings of the 2016 ACM on Multimedia Conference (ACMMM)_<br>
-Contribution: framework design(part), writting(part).<br>
+Contribution: framework design(part), writting(part), conference poster presentation.<br>
 
 ### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 `<br>
 _BS Thesis_<br>
