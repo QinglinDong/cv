@@ -34,23 +34,24 @@ _B.S_. in Cybernetics, Institute of Robotics and Automation. Advised by [Dr. Han
 
 ## Experiences
 
-### __Deep Learning on fMRI__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
-Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
-ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
-Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
-Gyri/sulci Classification with Convolution Neural Network. (2019 IEEE ISBI) <br>
-Deep Sparse RNN on task-fMRI classification. (2018 IEEE TMI)<br>
-Brain Maps Classification with 3D Convolutional Neural Network. (2017 IEEE ISBI Oral)<br>
-Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
+### __Deep Learning on neuroimaging__ (_incomplete and inexact supervision, extremely high dimension_) `2016 - 2019`
+CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.(working)<br>
+RAE: Spatiotemporal model for fMRI with Recurrent Autoencoder. (Submitted) <br>
+VAE: ADHD Classification with Deep Variational Autoencoder. (Submitted) <br>
+DBN: Hierarchical Brain Connectome with Deep Belief Net. (Submitted) <br>
+CNN: Gyri/sulci Classification with Convolution Neural Network. (2019 IEEE ISBI) <br>
+RNN: Deep Sparse RNN on task-fMRI classification. (2018 IEEE TMI)<br>
+CNN: Brain Maps Classification with 3D Convolutional Neural Network. (2017 IEEE ISBI Oral)<br>
+DL:Multiple demand holistic atlases of functional networks and interactions. (2016 IEEE ISBI)<br>
 Reviewer for The International Conference on Progress in Informatics and Computing (2016 PIC). 
 
 ### __Deep Learning on Eye Tracking__ `2018 - 2019`
-Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
-A long-distance appearance-based gaze estimation model with CNN (submitted). <br>
+CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
+CNN: A long-distance appearance-based gaze estimation model with CNN (submitted). <br>
 Simultaneous EEG and Eyetracker Recording. (2016 ACM Multimedia)
 
 ### __Undergraduate__  `2012-2014`
-Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
+HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. (Undergraduate Thesis)<br>
 Mathematical Contest in Modeling (MCM). (Honorable Mention) <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
 
