@@ -34,22 +34,22 @@ Tianjin, China
 ```
 _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
 
-## Experiences
+## Projects
 
 ### __Unsupervised Deep Learning on Neuroimaging__  `2019`<br>
 _Dissertation_. Incomplete and inexact supervision, extremely high dimension<br>
 
 ### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `2019` <br>
-Submitted to _IEEE transactions on medical imaging (TMI)_
+(Submitted) _IEEE transactions on medical imaging (TMI)_
 
 ### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `2019` <br>
-Submitted to _IEEE Transactions on Biomedical Engineering (TBME)_
+(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_
 
 ### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `2019` <br>
-Submitted to _IEEE Transactions on Biomedical Engineering (TBME)_
+(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_
 
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `2019`. <br>
-Submitted to _IEEE Transactions on Human-Machine Systems_
+(Submitted) _IEEE Transactions on Human-Machine Systems_
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
@@ -58,7 +58,8 @@ _IEEE International Symposium on Biomedical Imaging (ISBI)_
 _IEEE transactions on medical imaging (TMI)_
 
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
-_IEEE transactions on medical imaging (TMI)and conference on Information Processing in Medical Imaging (IPMI)_
+_IEEE transactions on medical imaging (TMI)_<br>
+_conference on Information Processing in Medical Imaging (IPMI)_
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_
