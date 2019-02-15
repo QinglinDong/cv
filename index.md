@@ -41,62 +41,62 @@ _PhD Dissertation_. <br>
 Incomplete and inexact supervision, extremely high dimension<br>
 
 ### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `2019` <br>
-(Submitted) _IEEE transactions on medical imaging (TMI)_
-Contribution: framework design, code implementation, preliminary result, writting.
+(Submitted) _IEEE transactions on medical imaging (TMI)_<br>
+Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `2019` <br>
-(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_
-Contribution: framework design, code implementation, preliminary result, writting.
+(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_<br>
+Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `2019` <br>
-(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_
-Contribution: framework design, code implementation, result analysis, writting.
+(Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_<br>
+Contribution: framework design, code implementation, result analysis, writting.<br>
 
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `2019`. <br>
-(Submitted) _IEEE Transactions on Human-Machine Systems_
-Contribution: code implementation.
+(Submitted) _IEEE Transactions on Human-Machine Systems_<br>
+Contribution: code implementation.<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI)_
-Contribution: code implementation.
+_IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
+Contribution: code implementation.<br>
 
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018`<br>
-_IEEE transactions on medical imaging (TMI)_
-Contribution: framework design.
+_IEEE transactions on medical imaging (TMI)_<br>
+Contribution: framework design.<br>
 
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
 _IEEE transactions on medical imaging (TMI)_<br>
-_conference on Information Processing in Medical Imaging (IPMI)_
-Contribution: framework design.
+_conference on Information Processing in Medical Imaging (IPMI)_<br>
+Contribution: framework design.<br>
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI)_
-Contribution: framework design.
+_IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
+Contribution: framework design.<br>
 
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018`<br>
-Oral on _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_
-Contribution: framework design, code implementation.
+Oral on _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_<br>
+Contribution: framework design, code implementation.<br>
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
 _Medical image analysis (MIA)_<br>
-_The Medical Image Computing and Computer Assisted Intervention (MICCAI)_
-Contribution: framework design, code implementation, preliminary result, writting.
+_The Medical Image Computing and Computer Assisted Intervention (MICCAI)_<br>
+Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __DL:__ Connectome-scale brain network interactions via time-evolving graphs.`2017 `<br>
-_NeuroImage_
-Contribution: framework design(part).
+_NeuroImage_<br>
+Contribution: framework design(part).<br>
 
 ### __DL:__ Multple-demand system identification and characterization via sparse representations. `2016`<br>
-_IEEE International Symposium on Biomedical Imaging (ISBI)_
-Contribution: framework design(part), writting(part).
+_IEEE International Symposium on Biomedical Imaging (ISBI)_<br><br>
+Contribution: framework design(part), writting(part).<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording `2016`<br>
-_the Proceedings of the 2016 ACM on Multimedia Conference (ACMMM)_
-Contribution: framework design(part), writting(part).
+_the Proceedings of the 2016 ACM on Multimedia Conference (ACMMM)_<br>
+Contribution: framework design(part), writting(part).<br>
 
 ### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 `<br>
-_BS Thesis_
-Contribution: framework design, code implementation, result analysis, writting.
+_BS Thesis_<br>
+Contribution: framework design, code implementation, result analysis, writting.<br>
 <!---
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
