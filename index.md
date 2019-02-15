@@ -36,30 +36,30 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Experiences
 
-### __Unsupervised Deep Learning on Neuroimaging__  `2019 Dissertation`
-(_incomplete and inexact supervision, extremely high dimension_)
-CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
-RAE: Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
-VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
-DBN: Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
-CNN: Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019 IEEE ISBI`<br>
-RNN: Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
-CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
-DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
-CNN: 3-D functional brain network classification using CNN. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
-CAE: Functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
-DL: Connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
-DL: Multple-demand system identification and characterization via sparse representations. `2016 IEEE ISBI`<br>
-Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
+### __Unsupervised Deep Learning on Neuroimaging__  `2019 Dissertation`<br>
+(_incomplete and inexact supervision, extremely high dimension_)<br>
+### __CNN:__ ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`2019`<br>
+### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
+### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
+### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
+### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019 IEEE ISBI`<br>
+IEEE ISBI
+### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
+### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
+### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
+### __CNN:__ 3-D functional brain network classification using CNN. `2018 IEEE TBME, 2017 IEEE ISBI Oral`<br>
+### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 MICCAI, MIA`<br>
+### __DL:__ Connectome-scale brain network interactions via time-evolving graphs.`2017 NeuroImage`<br>
+### __DL:__ Multple-demand system identification and characterization via sparse representations. `2016 IEEE ISBI`<br>
 
-### __Other__ 
-CNN: A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
-Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`<br>
-HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 Thesis`<br>
+### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
+### Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`<br>
+### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 Thesis`<br>
 <!---
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
+Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 -->
 ## Skill Sets
 __Programming__: Python, matlab, C/C++, linux, html/js, Tensorflow, Keras, sklearn, weka. <br>
