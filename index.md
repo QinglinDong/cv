@@ -18,7 +18,7 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D. Student_ and _Research Assistant_, the Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
+_Ph.D. and _RA_, Department of Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
 <!---
 ### __University of Michigan__ `2016.5 - 2016.8`
@@ -41,7 +41,7 @@ CNN: ABCD Neurocognitive Prediction Challenge, 2019 MICCAI.`Working`<br>
 RAE: Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `Submitted` <br>
 VAE: ADHD Classification with Deep Variational Autoencoder. `Submitted` <br>
 DBN: Hierarchical Brain Connectome with Deep Belief Net. `Submitted` <br>
-CNN: )Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  `2019 IEEE ISBI`<br>
+CNN: Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  `2019 IEEE ISBI`<br>
 RNN: Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018 IEEE TMI`<br>
 CAE: Modeling task fMRI data via deep convolutional autoencoder.`2018 IEEE TMI, 2017 IPMI`<br>
 DEN: Modeling task fMRI data via mixture of deep expert networks. `2018 IEEE ISBI`<br>
