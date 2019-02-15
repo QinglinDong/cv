@@ -53,17 +53,19 @@ Reviewer for The International Conference on Progress in Informatics and Computi
 
 ### __Other__ 
 CNN: A long-distance appearance-based gaze estimation model with CNN `submitted`. <br>
-CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Interpretation from Simultaneous EEG and Eyetracker Recording `2016 ACM Multimedia`<br>
 HMM: Hierarchical clustering with Hidden Markov Models on phylogenetic data. `2012 Thesis`<br>
+<!---
+CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
 Built a Real-time Electromyography controlled functional electrical stimulator(EMG-FES) for paralytic stroke patients.<br>
-
+-->
 ## Skill Sets
 __Programming__: Python, matlab, C/C++, linux, html/js, Tensorflow, Keras, sklearn, weka. <br>
 __Machine Learning__: LinReg/Lasso/RidgeReg/LogReg, Perceptron/SVM, kNN/kmeans/Spectral Clustering, NB/MLE/MAP/EM/MCMC/VI, PCA/ICA/DL/SC, CNN, RNN/LSTM, RBM/DBN/VAE/GAN, NAS, Evolution/Particle. <br>
 __Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
 
+<!---
 ## Publications
 
 ### Ge, F., Zhang, S., Huang, H., Jiang, X., Dong, Q., Guo, L., Wang, X., Liu, T.  (2019)Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex, In Biomedical Imaging, 2019 IEEE 16th International Symposium.
@@ -80,7 +82,7 @@ __Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
 ### Zhao, Y., Dong, Q., Chen, H., Iraji, A., Li, Y., Makkie, M., ... & Liu, T. (2017). Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder. Medical image analysis, 42, 200-211.
 ### Liu, S., Lv, J., Hou, Y., Shoemaker, T., Dong, Q., Li, K., & Liu, T. (2016). What Makes a Good Movie Trailer?: Interpretation from Simultaneous EEG and Eyetracker Recording. Paper presented at the Proceedings of the 2016 ACM on Multimedia Conference.
 ### Li, X., Dong, Q., Jiang, X., Lv, J., & Liu, T. (2016). Multple-demand system identification and characterization via sparse representations of fMRI data. Paper presented at the Biomedical Imaging, In Biomedical Imaging (ISBI 2016), 2016 IEEE 13th International Symposium.
-
+-->
 
 <!-- ### Footer
 
