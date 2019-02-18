@@ -71,8 +71,7 @@ State-of-art task fMRI classification on HCP.<br>
 Contribution: framework design.<br>
 
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
-_IEEE transactions on medical imaging (TMI)_<br>
-_conference on Information Processing in Medical Imaging (IPMI)_<br>
+_IEEE transactions on medical imaging (TMI)_ and _conference on Information Processing in Medical Imaging (IPMI)_<br>
 Contribution: framework design, conference poster presentation.<br>
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. `2018`<br>
