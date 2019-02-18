@@ -42,26 +42,32 @@ Challenge: Incomplete and inexact supervision, high dimension of features<br>
 
 ### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders `2019` <br>
 (Submitted) _IEEE transactions on medical imaging (TMI)_<br>
+The first unsupervised RNN for resting fMRI data.<br>
 Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __VAE:__ ADHD Classification with Deep Variational Autoencoder. `2019` <br>
 (Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_<br>
+State-of-art classification accuracy of ADHD.<br>
 Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. `2019` <br>
 (Submitted) _IEEE Transactions on Biomedical Engineering (TBME)_<br>
-Contribution: framework design, code implementation, result analysis, writting.<br>
+The first deep model yielding hierarchical brain networks.<br>
+Contribution: framework design, code implementation, preliminary result, writting.<br>
 
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN `2019`. <br>
 (Submitted) _IEEE Transactions on Human-Machine Systems_<br>
+State-of-art long-distance eye-tracking device.<br>
 Contribution: framework design(part), code implementation(part), writting(part).<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  `2019`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI)_<br>
-Contribution: code implementation.<br>
+State-of-art Gyri/Sulci classification based on fMRI.<br>
+Contribution: framework design(part), code implementation(part)<br>
 
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. `2018`<br>
 _IEEE transactions on medical imaging (TMI)_<br>
+State-of-art task fMRI classification on HCP.<br>
 Contribution: framework design.<br>
 
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.`2018`<br>
@@ -75,6 +81,7 @@ Contribution: framework design(part).<br>
 
 ### __CNN:__ 3-D functional brain network classification using CNN. `2018`<br>
 _IEEE International Symposium on Biomedical Imaging (ISBI) and IEEE Transactions on Biomedical Engineering (TBME)_<br>
+State-of-art 3-D functional brain network classification.
 Contribution: framework design(part), code implementation, conference oral presentation.<br>
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.`2017 `<br>
