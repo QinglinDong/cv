@@ -43,13 +43,13 @@ _PhD Dissertation_ (In progress). Challenge: Weak supervision and high dimension
 2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
 
 ### __VAE:__ Deep Variational Autoencoders Derived Brain Functional Networks on ADHD Identification. <br>
-2019  _IEEE TBME _(In review). State-of-art classification accuracy of ADHD.<br>
+2019  _IEEE TBME_ (In review). State-of-art classification accuracy of ADHD.<br>
 
 ### __DBN:__ Modeling Hierarchical Brain Networks via Volumetric Sparse Deep Belief Network. <br>
-2019  _IEEE TBME _(In review). The first deep model yielding hierarchical brain networks.<br>
+2019  _IEEE TBME_ (In review). The first deep model yielding hierarchical brain networks.<br>
 
 ### __CNN:__ Training a Camera to Perform Long-Distance Eye Tracking by another Eye-Tracker . <br>
-2019  _IEEE THMS _(In review). State-of-art long-distance eye-tracking device.<br>
+2019  _IEEE THMS_ (In review). State-of-art long-distance eye-tracking device.<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  <br>
 2019  _IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
