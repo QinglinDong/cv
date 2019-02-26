@@ -41,46 +41,46 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 Challenge: Incomplete and inexact supervision, high dimension of features<br>
 
 ### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
- _2019 IPMI_. The first unsupervised RNN for resting fMRI data.<br>
+2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
 
 ### __VAE:__ ADHD Classification with Deep Variational Autoencoder. <br>
-_2019 IEEE TBME_.(Submitted) State-of-art classification accuracy of ADHD.<br>
+2019  _IEEE TBME_.(Submitted) State-of-art classification accuracy of ADHD.<br>
 
 ### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. <br>
-_2019 IEEE TBME_.(Submitted) The first deep model yielding hierarchical brain networks.<br>
+2019  _IEEE TBME_.(Submitted) The first deep model yielding hierarchical brain networks.<br>
 
 ### __CNN:__ A long-distance appearance-based gaze estimation model with CNN . <br>
-_2019 IEEE THMS_.(Submitted) State-of-art long-distance eye-tracking device.<br>
+2019  _IEEE THMS_.(Submitted) State-of-art long-distance eye-tracking device.<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  <br>
-_2019 IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
+2019  _IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
 
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. <br>
-_2018 IEEE TMI_. State-of-art task fMRI classification on HCP.<br>
+2018  _IEEE TMI_. State-of-art task fMRI classification on HCP.<br>
 
 ### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.<br>
-_2018 IEEE TMI, IPMI_.
+2018  _IEEE TMI, IPMI_.
 
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. <br>
-_2018 IEEE ISBI_.
+2018  _IEEE ISBI_.
 
 ### __CNN:__ 3-D functional brain network classification using CNN. <br>
-_2018 IEEE ISBI, IEEE TBME_. State-of-art 3-D functional brain network classification.
+2018  _IEEE ISBI, IEEE TBME_. State-of-art 3-D functional brain network classification.
 
 ### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.<br>
-_2017 MIA, MICCAI_.
+2017  _MIA, MICCAI_.
 
 ### __DL:__ Connectome-scale brain network interactions via time-evolving graphs.<br>
-_2017 NeuroImage_.<br>
+2017  _NeuroImage_.<br>
 
 ### __DL:__ Multple-demand system identification and characterization via sparse representations. <br>
-_2016 IEEE ISBI_.<br>
+2016  _IEEE ISBI_.<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording <br>
-_2016 ACMMM._<br>
+2016  _ACMMM._<br>
 
 ### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. <br>
-_2012 BS Thesis_.<br>
+2012  _BS Thesis_.<br>
 <!---
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
