@@ -25,7 +25,7 @@ _Ph.D._ and _RA_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobwe
 ```
 Ann Arbor, MI
 ```
-_Visiting Student_, the Department of Computational Medicine and Bioinformatics, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
+_Visiting Student_, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
 
 
 ### __Nankai University__ `2010.8 - 2014.6`
