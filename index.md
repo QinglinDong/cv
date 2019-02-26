@@ -40,19 +40,19 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 (In progress) _PhD Dissertation_. <br>
 Challenge: Incomplete and inexact supervision, high dimension of features<br>
 
-### __RAE:__ Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
+### __RAE:__ Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
 2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
 
-### __VAE:__ ADHD Classification with Deep Variational Autoencoder. <br>
+### __VAE:__ Deep Variational Autoencoders Derived Brain Functional Networks on ADHD Identification. <br>
 2019  _IEEE TBME_.(Submitted) State-of-art classification accuracy of ADHD.<br>
 
-### __DBN:__ Hierarchical Brain Connectome with Deep Belief Net. <br>
+### __DBN:__ Modeling Hierarchical Brain Networks via Volumetric Sparse Deep Belief Network. <br>
 2019  _IEEE TBME_.(Submitted) The first deep model yielding hierarchical brain networks.<br>
 
-### __CNN:__ A long-distance appearance-based gaze estimation model with CNN . <br>
+### __CNN:__ Training a Camera to Perform Long-Distance Eye Tracking by another Eye-Tracker . <br>
 2019  _IEEE THMS_.(Submitted) State-of-art long-distance eye-tracking device.<br>
 
-### __CNN:__ Exploring Intrinsic Functional Differences of Gyri and Sulci.  <br>
+### __CNN:__ Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  <br>
 2019  _IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
 
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. <br>
@@ -64,16 +64,16 @@ Challenge: Incomplete and inexact supervision, high dimension of features<br>
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. <br>
 2018  _IEEE ISBI_.
 
-### __CNN:__ 3-D functional brain network classification using CNN. <br>
+### __CNN:__ Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. <br>
 2018  _IEEE ISBI, IEEE TBME_. State-of-art 3-D functional brain network classification.
 
-### __CAE:__ Functional brain network atlases via deep convolutional autoencoder.<br>
+### __CAE:__ Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder.<br>
 2017  _MIA, MICCAI_.
 
-### __DL:__ Connectome-scale brain network interactions via time-evolving graphs.<br>
+### __DL:__ Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.<br>
 2017  _NeuroImage_.<br>
 
-### __DL:__ Multple-demand system identification and characterization via sparse representations. <br>
+### __DL:__ Multple-demand system identification and characterization via sparse representations of fMRI data. <br>
 2016  _IEEE ISBI_.<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording <br>
