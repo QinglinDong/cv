@@ -44,13 +44,13 @@ Challenge: Incomplete and inexact supervision, high dimension of features<br>
 2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
 
 ### __VAE:__ Deep Variational Autoencoders Derived Brain Functional Networks on ADHD Identification. <br>
-2019  _IEEE TBME_.(In review) State-of-art classification accuracy of ADHD.<br>
+2019  _IEEE TBME _(In review). State-of-art classification accuracy of ADHD.<br>
 
 ### __DBN:__ Modeling Hierarchical Brain Networks via Volumetric Sparse Deep Belief Network. <br>
-2019  _IEEE TBME_.(In review) The first deep model yielding hierarchical brain networks.<br>
+2019  _IEEE TBME _(In review). The first deep model yielding hierarchical brain networks.<br>
 
 ### __CNN:__ Training a Camera to Perform Long-Distance Eye Tracking by another Eye-Tracker . <br>
-2019  _IEEE THMS_.(In review) State-of-art long-distance eye-tracking device.<br>
+2019  _IEEE THMS _(In review). State-of-art long-distance eye-tracking device.<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  <br>
 2019  _IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
@@ -58,23 +58,23 @@ Challenge: Incomplete and inexact supervision, high dimension of features<br>
 ### __RNN:__ Recognizing Brain States Using Deep Sparse Recurrent Neural Network. <br>
 2018  _IEEE TMI_. State-of-art task fMRI classification on HCP.<br>
 
-### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.<br>
-2018  _IEEE TMI, IPMI_.
-
 ### __DEN:__ Modeling task fMRI data via mixture of deep expert networks. <br>
-2018  _IEEE ISBI_.
+2018  _IEEE ISBI_. Extension of CAE work.
+
+### __CAE:__ Modeling task fMRI data via deep convolutional autoencoder.<br>
+2018  _IEEE TMI, IPMI_. A temporal model of brain with 1D CNN.
 
 ### __CNN:__ Automatic Recognition of fMRI-Derived Functional Networks Using 3-D Convolutional Neural Networks. <br>
 2018  _IEEE ISBI, IEEE TBME_. State-of-art 3-D functional brain network classification.
 
 ### __CAE:__ Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder.<br>
-2017  _MIA, MICCAI_.
+2017  _MIA, MICCAI_. State-of-art 3-D functional brain network classification.
 
 ### __DL:__ Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.<br>
-2017  _NeuroImage_.<br>
+2017  _NeuroImage_. Extension of Diction Learning on fMRI.<br> 
 
 ### __DL:__ Multple-demand system identification and characterization via sparse representations of fMRI data. <br>
-2016  _IEEE ISBI_.<br>
+2016  _IEEE ISBI_. Extension of Diction Learning on fMRI.<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording <br>
 2016  _ACMMM._<br>
