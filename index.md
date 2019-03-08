@@ -36,7 +36,7 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Projects
 
-### __Deep Representation Learning on FMRI__  <br>
+### __Functional Brain Network Analysis of FMRI Based on Deep Learning__  <br>
 _PhD Dissertation_ (In progress). Challenge: Weak supervision and high dimension<br>
 
 ### __RAE:__ Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
@@ -69,10 +69,10 @@ _PhD Dissertation_ (In progress). Challenge: Weak supervision and high dimension
 ### __CAE:__ Constructing fine-granularity functional brain network atlases via deep convolutional autoencoder.<br>
 2017  _MIA, MICCAI_. State-of-art 3-D functional brain network classification.
 
-### __DL:__ Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.<br>
+### __Diction Learning:__ Spatio-temporal modeling of connectome-scale brain network interactions via time-evolving graphs.<br>
 2017  _NeuroImage_. Extension of Diction Learning on fMRI.<br> 
 
-### __DL:__ Multple-demand system identification and characterization via sparse representations of fMRI data. <br>
+### __Diction Learning:__ Multple-demand system identification and characterization via sparse representations of fMRI data. <br>
 2016  _IEEE ISBI_. Extension of Diction Learning on fMRI.<br>
 
 ### Interpretation from Simultaneous EEG and Eyetracker Recording <br>
