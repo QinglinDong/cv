@@ -36,8 +36,8 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Projects
 
-### __Functional Brain Network Analysis of FMRI Based on Deep Learning__  <br>
-_PhD Dissertation_ (In progress). Challenge: Weak supervision and high dimension<br>
+### __Unsupervised Deep Learning on FMRI__  <br>
+_PhD Dissertation_ (In progress). Challenge: Weak supervision, high dimension, small dataset<br>
 
 ### __RAE:__ Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
 2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
