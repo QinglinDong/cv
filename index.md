@@ -18,14 +18,14 @@ pdf: true
 ```
 Athens, GA
 ```
-_Ph.D._ and _RA_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
+_Ph.D._ and _Research Assistant_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
 
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
 ```
-_B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
+_B.S_. in Computer Science. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/frontend/Teachers/Introduce.aspx?TID=zhangh).<br>
 
 ## Publications
 
