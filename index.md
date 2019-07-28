@@ -28,9 +28,6 @@ _B.S_. in Cybernetics. Advised by [Dr. Han Zhang](http://ai.nankai.edu.cn/fronte
 
 ## Projects
 
-### __Unsupervised Deep Learning on FMRI__  <br>
-_PhD Dissertation_ (In progress). Challenge: Weak supervision, high dimension, small dataset<br>
-
 ### __RAE:__ Simultaneous Spatial-temporal Decomposition of Connectome-scale Brain Networks by Deep Sparse Recurrent Auto-encoders  <br>
 2019  _IPMI_. The first unsupervised RNN for resting fMRI data.<br>
 
@@ -39,9 +36,6 @@ _PhD Dissertation_ (In progress). Challenge: Weak supervision, high dimension, s
 
 ### __DBN:__ Modeling Hierarchical Brain Networks via Volumetric Sparse Deep Belief Network. <br>
 2019  _IEEE TBME_ (In review). The first deep model yielding hierarchical brain networks.<br>
-
-### __CNN:__ Training a Camera to Perform Long-Distance Eye Tracking by another Eye-Tracker . <br>
-2019  _IEEE THMS_ (In review). State-of-art long-distance eye-tracking device.<br>
 
 ### __CNN:__ Exploring Intrinsic Functional Differences of Gyri, Sulci and 2-hinge, 3-hinge Joints on Cerebral Cortex.  <br>
 2019  _IEEE ISBI_. State-of-art Gyri/Sulci classification based on fMRI.<br>
@@ -76,7 +70,6 @@ Reviewer for The International Conference on Progress in Informatics and Computi
 -->
 ## Skill Sets
 __Programming__: Python, matlab, C/C++, linux, html/js, Tensorflow, Keras, sklearn, weka. <br>
-__Machine Learning__: LinReg/Lasso/RidgeReg/LogReg, Perceptron/SVM, kNN/kmeans/Spectral Clustering, NB/MLE/MAP/EM/MCMC/VI, PCA/ICA/DL/SC, CNN, RNN/LSTM, RBM/DBN/VAE/GAN, NAS, Evolution/Particle. <br>
 __Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
 
 <!---
