@@ -1,16 +1,17 @@
 ---
 layout: cv
 title: Qinglin Dong
-email: 
-    url: mailto:qinglin@uga.edu
-    text: qinglin@uga.edu
-homepage:
-    url: https://qinglindong.github.io/
-    text: qinglindong.github.io/
 pdf: true
 ---
+
 # Qinglin Dong
 
+<div id="">
+<i class="fi-home" style="margin-left:1em"></i>
+    <a href="https://qinglindong.github.io/" style="margin-left:0.5em">qinglindong.github.io/</a>
+<i class="fi-mail" style="margin-left:1em"></i>
+<a href="qinglin@uga.edu" style="margin-left:0.5em">qinglin@uga.edu</a>
+</div>
 ## Education
 
 ### __University of Georgia__ `2014.8 - 2019.8`
