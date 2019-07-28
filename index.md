@@ -20,13 +20,6 @@ Athens, GA
 _Ph.D._ and _RA_ in Computer Science, Advised by [Dr. Tianming Liu](http://cobweb.cs.uga.edu/~tliu/).<br>
 
 
-### __University of Michigan__ `2016.5 - 2016.8`
-```
-Ann Arbor, MI
-```
-_Visiting Student_, Advised by [Dr. Jieping Ye](https://midas.umich.edu/faculty-member/jieping-ye/).<br>
-
-
 ### __Nankai University__ `2010.8 - 2014.6`
 ```
 Tianjin, China
@@ -74,11 +67,7 @@ _PhD Dissertation_ (In progress). Challenge: Weak supervision, high dimension, s
 ### __Diction Learning:__ Multple-demand system identification and characterization via sparse representations of fMRI data. <br>
 2016  _IEEE ISBI_. Extension of Diction Learning on fMRI.<br>
 
-### Interpretation from Simultaneous EEG and Eyetracker Recording <br>
-2016  _ACMMM._<br>
 
-### __HMM:__ Hierarchical clustering with Hidden Markov Models on phylogenetic data. <br>
-2012  _BS Thesis_.<br>
 <!---
 CNN: Eye Tracking with transfer learning on Raspberry pi3 and neural compute stick. <br>
 Mathematical Contest in Modeling, Honorable. `2012 MCM` <br>
