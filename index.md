@@ -8,6 +8,7 @@ pdf: true
 
 <div id="webaddress">
 <i class="fi-home" style="margin-left:1em"></i>
+<a href="qinglin@uga.edu" style="margin-left:0.5em">qinglin@uga.edu</a>
 <i class="fi-mail" style="margin-left:1em"></i>
 <a href="qinglin@uga.edu" style="margin-left:0.5em">qinglin@uga.edu</a>
 </div>
