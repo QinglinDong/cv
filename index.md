@@ -67,8 +67,8 @@ Built a Real-time Electromyography controlled functional electrical stimulator(E
 Reviewer for The International Conference on Progress in Informatics and Computing `2016 PIC`. <br>
 -->
 ## Skill Sets
-__Programming__: Python, matlab, C/C++, linux, html/js, Tensorflow, Keras, sklearn, weka. <br>
-__Visulization__: Matplotlib, D3, seaborn, FSL, paraview.<br>
+__Programming__: Python, Tensorflow/Keras, sklearn, spark, git, seaborn, jupyter. <br>
+__Deep Learning__: image classification, generative learning, transfer learning, neural architecture search.<br>
 
 <!---
 ## Publications
